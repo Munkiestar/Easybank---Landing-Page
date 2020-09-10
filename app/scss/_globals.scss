@@ -54,6 +54,7 @@ body {
   font-size: $font-med; // 18px
   font-weight: 300;
   color: $grayishBlue;
+  overflow-x: hidden;
 
   &.no-scroll {
     overflow: hidden;
